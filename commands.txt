@@ -1,0 +1,14 @@
+npm run build: Builds/Bundles JS/HTML files for you in the dist folder. Drop DIST into netlify for deployment
+
+
+npm run start: bundles files in dist folder and live reloading of webpage
+
+npm i "insert package name here" --save-dev (do this for dev dependencies aka things that do not go intop the final prodcut. development stuff only)
+
+npm i "package name" (use this when you want to install dependency that needs to be present in the final product)
+
+npm uninstall (pretty obvious)
+
+npm install(by itself re-installs dependencies and creates node_modules folder)
+
+cTRL + C (kills dev server)
